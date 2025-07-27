@@ -1,0 +1,3 @@
+# Build instructions
+
+odin run .
